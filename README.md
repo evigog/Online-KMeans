@@ -1,5 +1,5 @@
-# Online-K-Means
-My Master Thesis project with title "A review of distributed stream processing systems and implementation of Streaming K-Means on Apache Flink"
+# Online-KMeans
+The implementation part of my Master Thesis project with title "A review of distributed stream processing systems and implementation of Streaming K-Means on Apache Flink", conducted during the last year of my studies in the Computer Engineering and Informatics Department, University of Patras, Greece.
 
 ### Execution Requirements
   scala version : 2.10.4
