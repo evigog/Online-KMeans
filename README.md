@@ -29,5 +29,5 @@ The implementation part of my Master Thesis project with title "A review of dist
   3. Execute (inside folder flink-1.1.4) :
   bin/flink run -c evi_thesis.flink.clustering.visualization.ClusterVisualization <path to file flink-online- kmeans-1.1.4-fat.jar>
 ### Dataset
-  Full dataset found here (train.csv.zip)
-  File week.csv found in this folder contains only data from 1.7.13 - 7.7.2013 Input file must contain elements with ascending alignment by field TIMESTAMP
+  - Full dataset found here (train.csv.zip)
+  - Input file must contain elements with ascending alignment by field TIMESTAMP
